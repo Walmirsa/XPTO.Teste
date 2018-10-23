@@ -1,0 +1,7 @@
+C:\Users\jwalm\source\WS.Impressao\V1.0.0\Bin\Base.Util.dll
+C:\Users\jwalm\source\WS.Impressao\V1.0.0\Bin\Base.Util.pdb
+C:\Users\jwalm\source\repos\XPTO\Base.Util\obj\Debug\Base.Util.csprojResolveAssemblyReference.cache
+C:\Users\jwalm\source\repos\XPTO\Base.Util\obj\Debug\Base.Util.csproj.ResolveComReference.cache
+C:\Users\jwalm\source\repos\XPTO\Base.Util\obj\Debug\Base.Util.csproj.CoreCompileInputs.cache
+C:\Users\jwalm\source\repos\XPTO\Base.Util\obj\Debug\Base.Util.dll
+C:\Users\jwalm\source\repos\XPTO\Base.Util\obj\Debug\Base.Util.pdb

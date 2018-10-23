@@ -1,0 +1,12 @@
+C:\Users\jwalm\source\repos\XPTO\XPTO.Dados\bin\Debug\XPTO.Dados.dll
+C:\Users\jwalm\source\repos\XPTO\XPTO.Dados\bin\Debug\XPTO.Dados.pdb
+C:\Users\jwalm\source\repos\XPTO\XPTO.Dados\bin\Debug\Base..Framework.dll
+C:\Users\jwalm\source\repos\XPTO\XPTO.Dados\bin\Debug\Base.Util.dll
+C:\Users\jwalm\source\repos\XPTO\XPTO.Dados\bin\Debug\XPTO.Entidades.dll
+C:\Users\jwalm\source\repos\XPTO\XPTO.Dados\bin\Debug\Base..Framework.pdb
+C:\Users\jwalm\source\repos\XPTO\XPTO.Dados\bin\Debug\Base.Util.pdb
+C:\Users\jwalm\source\repos\XPTO\XPTO.Dados\bin\Debug\XPTO.Entidades.pdb
+C:\Users\jwalm\source\repos\XPTO\XPTO.Dados\obj\Debug\XPTO.Dados.csprojResolveAssemblyReference.cache
+C:\Users\jwalm\source\repos\XPTO\XPTO.Dados\obj\Debug\XPTO.Dados.csproj.CoreCompileInputs.cache
+C:\Users\jwalm\source\repos\XPTO\XPTO.Dados\obj\Debug\XPTO.Dados.dll
+C:\Users\jwalm\source\repos\XPTO\XPTO.Dados\obj\Debug\XPTO.Dados.pdb

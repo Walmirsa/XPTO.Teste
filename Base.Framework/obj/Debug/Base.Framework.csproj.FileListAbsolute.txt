@@ -1,0 +1,5 @@
+C:\Users\jwalm\source\repos\XPTO\bin\Base..Framework.dll
+C:\Users\jwalm\source\repos\XPTO\bin\Base..Framework.pdb
+C:\Users\jwalm\source\repos\XPTO\Base.Framework\obj\Debug\Base.Framework.csproj.CoreCompileInputs.cache
+C:\Users\jwalm\source\repos\XPTO\Base.Framework\obj\Debug\Base..Framework.dll
+C:\Users\jwalm\source\repos\XPTO\Base.Framework\obj\Debug\Base..Framework.pdb

@@ -1,0 +1,14 @@
+C:\Users\jwalm\source\repos\XPTO\XPTO.Negocios\bin\Debug\XPTO.Negocios.dll
+C:\Users\jwalm\source\repos\XPTO\XPTO.Negocios\bin\Debug\XPTO.Negocios.pdb
+C:\Users\jwalm\source\repos\XPTO\XPTO.Negocios\bin\Debug\Base..Framework.dll
+C:\Users\jwalm\source\repos\XPTO\XPTO.Negocios\bin\Debug\Base.Util.dll
+C:\Users\jwalm\source\repos\XPTO\XPTO.Negocios\bin\Debug\XPTO.Dados.dll
+C:\Users\jwalm\source\repos\XPTO\XPTO.Negocios\bin\Debug\XPTO.Entidades.dll
+C:\Users\jwalm\source\repos\XPTO\XPTO.Negocios\bin\Debug\Base..Framework.pdb
+C:\Users\jwalm\source\repos\XPTO\XPTO.Negocios\bin\Debug\Base.Util.pdb
+C:\Users\jwalm\source\repos\XPTO\XPTO.Negocios\bin\Debug\XPTO.Dados.pdb
+C:\Users\jwalm\source\repos\XPTO\XPTO.Negocios\bin\Debug\XPTO.Entidades.pdb
+C:\Users\jwalm\source\repos\XPTO\XPTO.Negocios\obj\Debug\XPTO.Negocios.csprojResolveAssemblyReference.cache
+C:\Users\jwalm\source\repos\XPTO\XPTO.Negocios\obj\Debug\XPTO.Negocios.csproj.CoreCompileInputs.cache
+C:\Users\jwalm\source\repos\XPTO\XPTO.Negocios\obj\Debug\XPTO.Negocios.dll
+C:\Users\jwalm\source\repos\XPTO\XPTO.Negocios\obj\Debug\XPTO.Negocios.pdb

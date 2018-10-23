@@ -1,0 +1,5 @@
+C:\Users\jwalm\source\repos\XPTO\XPTO.Entidades\bin\Debug\XPTO.Entidades.dll
+C:\Users\jwalm\source\repos\XPTO\XPTO.Entidades\bin\Debug\XPTO.Entidades.pdb
+C:\Users\jwalm\source\repos\XPTO\XPTO.Entidades\obj\Debug\XPTO.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\jwalm\source\repos\XPTO\XPTO.Entidades\obj\Debug\XPTO.Entidades.dll
+C:\Users\jwalm\source\repos\XPTO\XPTO.Entidades\obj\Debug\XPTO.Entidades.pdb
